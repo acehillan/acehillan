@@ -1,16 +1,40 @@
-## Hi there 👋
+Hello World! I'm Njoki Hillan 👋
 
-<!--
-**acehillan/acehillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇰🇪 Software Developer | Tech Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I'm a developer focusing on building robust, scalable applications, primarily using the Python/Flask stack for backend development and modern JavaScript frameworks for dynamic frontends. I believe in continuous learning and applying technology to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on mastering full-stack deployment and leveraging generative AI APIs to build intelligent, educational tools.
+
+🚀 Featured Projects
+
+
+
+
+💻 Tech Stack & Tools
+
+Languages:
+
+Frameworks & Libraries:
+
+AI/ML & Tools:
+
+📈 GitHub Stats
+
+Replace the placeholders below with your actual stats card URLs.
+
+🤝 Get in Touch
+
+Platform
+
+Link
+
+LinkedIn
+
+Connect with me on LinkedIn
+
+Email
+
+acehillan.com
+
+<p align="center">Made with ❤️ in Kenya 🇰🇪</p>
