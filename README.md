@@ -8,8 +8,11 @@ I am currently working on mastering full-stack deployment and leveraging generat
 
 🚀 Featured Projects
 
-
-
+| Project Name | Stack | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **Mwalimu Jua** (AI Tutor) | Python (Flask), Gemini API, JavaScript, HTML, Tailwind | An educational application that provides personalized, context-aware tutoring with a Kenyan cultural context. | In Progress |
+| [Project 2 Name] | [e.g., React, TypeScript] | [A brief, compelling description of the project.] | Completed |
+| [Project 3 Name] | [e.g., SQL, Django] | [A brief, compelling description of the project.] | Planning |
 
 💻 Tech Stack & Tools
 
