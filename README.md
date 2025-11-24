@@ -11,8 +11,6 @@ I am currently working on mastering full-stack deployment and leveraging generat
 | Project Name | Stack | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **Mwalimu Jua** (AI Tutor) | Python (Flask), Gemini API, JavaScript, HTML, Tailwind | An educational application that provides personalized, context-aware tutoring with a Kenyan cultural context. | In Progress |
-| [Project 2 Name] | [e.g., React, TypeScript] | [A brief, compelling description of the project.] | Completed |
-| [Project 3 Name] | [e.g., SQL, Django] | [A brief, compelling description of the project.] | Planning |
 
 💻 Tech Stack & Tools
 
@@ -24,20 +22,20 @@ AI/ML & Tools:
 
 📈 GitHub Stats
 
-Replace the placeholders below with your actual stats card URLs.
+https://github-readme-stats.vercel.app/api?username=acehillan
 
 🤝 Get in Touch
 
-Platform
+| Platform | Link |
+| :--- | :--- |
+| LinkedIn | https://www.linkedin.com/in/hillan-munene |
+| Email | acehillan@gmail.com |
 
-Link
 
-LinkedIn
+<p align="center">Made with ❤️ in Kenya 🇰🇪</p>
 
-Connect with me on LinkedIn
 
-Email
 
-acehillan.com
+
 
 <p align="center">Made with ❤️ in Kenya 🇰🇪</p>
